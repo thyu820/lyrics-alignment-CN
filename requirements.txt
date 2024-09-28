@@ -1,0 +1,4 @@
+librosa
+numpy==1.23.5
+torch
+openai-whisper
